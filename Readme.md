@@ -1,11 +1,11 @@
 ### Chess Project
 
 ## Starting Position
-![start pos](assets/startpospic.png width="200")
+<img src=assets/startpospic.png width="200">
 ## Mid Position
-![mid pos](assets/midpospic.png width="200")
+<img src=assets/midpospic.png width="200">
 ## Final Position (Checkmate)
-![end pos](assets/endpospic.png width="200")
+<img src=assets/endpospic.png width="200">
 
 
 
