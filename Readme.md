@@ -2,8 +2,10 @@
 
 ## Starting Position
 <img src=assets/startpospic.png width="200">
+
 ## Mid Position
 <img src=assets/midpospic.png width="200">
+
 ## Final Position (Checkmate)
 <img src=assets/endpospic.png width="200">
 
